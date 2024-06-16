@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/noruke/static/css/main.b84fc655.css",
-    "main.js": "/noruke/static/js/main.aa387792.js",
+    "main.css": "/noruke/static/css/main.7b82b1e4.css",
+    "main.js": "/noruke/static/js/main.cd1a8d42.js",
     "static/js/453.8df24388.chunk.js": "/noruke/static/js/453.8df24388.chunk.js",
     "static/media/gauteprofil.jpg": "/noruke/static/media/gauteprofil.51c50a28dfc5b3b1a1b5.jpg",
     "index.html": "/noruke/index.html",
-    "main.b84fc655.css.map": "/noruke/static/css/main.b84fc655.css.map",
-    "main.aa387792.js.map": "/noruke/static/js/main.aa387792.js.map",
+    "main.7b82b1e4.css.map": "/noruke/static/css/main.7b82b1e4.css.map",
+    "main.cd1a8d42.js.map": "/noruke/static/js/main.cd1a8d42.js.map",
     "453.8df24388.chunk.js.map": "/noruke/static/js/453.8df24388.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b84fc655.css",
-    "static/js/main.aa387792.js"
+    "static/css/main.7b82b1e4.css",
+    "static/js/main.cd1a8d42.js"
   ]
 }
